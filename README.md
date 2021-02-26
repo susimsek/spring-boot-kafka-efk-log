@@ -1,7 +1,7 @@
-# Spring Boot Kafka Elasticsearch Log
+# Spring Boot Kafka Efk Log
 > Spring Boot Kafka Elasticsearch Log Using Fluentd
 >
-<img src="https://github.com/susimsek/spring-boot-kafka-elasticsearch-log/blob/main/images/spring-boot-kafka-elasticsearch-log.png" alt="Spring Boot Kafka Elasticsearch Log" width="100%" height="100%"/> 
+<img src="https://github.com/susimsek/spring-boot-kafka-efk-log/blob/main/images/spring-boot-kafka-efk-log.png" alt="Spring Boot Efk Log" width="100%" height="100%"/> 
 
 ## Prerequisites
 
